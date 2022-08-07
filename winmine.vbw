@@ -1,0 +1,6 @@
+frmWinMine = 0, 0, 0, 0, C, 88, 116, 687, 572, C
+clsWinMine = 0, 0, 0, 0, C
+clsCoords = 0, 0, 0, 0, C
+frmCustomDlg = 0, 0, 0, 0, C, 44, 58, 643, 514, C
+frmAboutBox = 132, 162, 679, 548, C, 22, 29, 621, 485, C
+frmInstructBox = 0, 0, 0, 0, C, 66, 87, 665, 543, C
